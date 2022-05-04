@@ -8,7 +8,7 @@ of his/her arriving on the .csv sheet.
 
 
 
-∎ Main Landing Page:
+∎ Face Recognise through WebCam:
 
 
-![MasterHead]()
+![MasterHead](https://github.com/ojaswisharma16/Face-Recognition-Smart-Attendence-Using-Python/blob/main/ImagesAttendance/face-det.png)
